@@ -1,0 +1,6 @@
+{
+  "name": "ATS Resume Builder AI",
+  "description": "AI-powered ATS-optimized resume builder with LinkedIn profile import, real-time scoring, 12 executive templates, photo customization, job tailoring, and AI enhancement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
